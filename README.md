@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lsolanodevop
-- 👀 I’m interested in Web Developer and Blockchain Developer
-- 🌱 I’m currently learning React and Nodejs
+- 👀 I’m interested in Web Developing and Automation
+- 🌱 In this repo you will find a lot of practice files because I use it as playground to learn and to practice skills
 - 📫 How to reach me leonardo.solano.hw@gmail.com
 
 <!---
